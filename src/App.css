@@ -1,0 +1,288 @@
+body{
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header_text{
+  font-size: 5em;
+  background: -webkit-linear-gradient(#1c92d2, #f2fcfe);
+  -webkit-background-clip:  text;
+  -webkit-text-fill-color: transparent;
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 1000;
+  text-align: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .header_text {
+    animation: ease-in infinite 20s linear;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .header_text {
+    font-size: 3em;
+  }
+}
+
+.header_p{
+  text-align: left;
+  line-height: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.myself{
+  height: 300px;
+}
+
+.head{
+
+}
+
+.small_p{
+  font-size: 1em;
+  text-align: justify-all;
+}
+.bar{
+  padding-right: 10px;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.mm{
+  padding-left: 10px;
+  font-family: 'Archivo Black', sans-serif;
+  background: -webkit-linear-gradient(#1c92d2, #f2fcfe);
+  -webkit-background-clip:  text;
+  -webkit-text-fill-color: transparent;
+  margin-right: 700px;
+}
+
+.link{
+  text-align: left;
+  padding-right: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .mm {
+    margin-right: 0px;
+  }
+}
+
+.circle{
+  height: 200px;
+  width: 200px;
+  border-radius: 150px;
+  border: 5px dashed #1c92d2;
+}
+
+@keyframes .circle{
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .circle {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+
+.align{
+  color: whitesmoke;
+  font-size: 12px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+}
+
+/*.card{
+  height: 500px;
+  width: 250px;
+   background: -webkit-linear-gradient(#1c92d2, #f2fcfe);
+  -webkit-text-fill-color: transparent;
+}*/
+
+.card h1{
+   background: -webkit-linear-gradient(#0d0d0d, #000000);
+  -webkit-background-clip:  text;
+  -webkit-text-fill-color: transparent;
+}
+
+.wid{
+  color: white;
+  text-align: left;
+ font-family: 'Poppins', sans-serif;
+  line-height: 30px;
+  font-size: 12px;
+  lighting-color: yellow;
+}
+
+.change{
+  background-color: #0d0d0d;
+}
+
+.tools1{
+  margin: 10px 10px;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+
+.tools2{
+  margin: 10px 10px;
+  height: 200px;
+}
+
+.change{
+  margin: 20px 8px;
+  height: 250px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .change {
+    margin-top: 30px;
+    height: 400px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .change {
+    margin-top: 30px;
+    height: 800px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .change {
+    margin-top: 20px;
+    height: 800px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .change {
+    height: 1000px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .change {
+    height: 1000px;
+  }
+}
+
+.tools2 p{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.tools2 h1{
+  text-align: center;
+}
+
+.bit{
+  position: absolute;
+  left: 750px;
+  z-index: -1;
+}
+
+@media only screen and (max-width: 600px) {
+  .bit {
+    position: absolute;
+    z-index: -1;
+    left: 20px;
+    top: 430px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .bit {
+    position: absolute;
+    z-index: -1;
+    left: 20px;
+    top: 450px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .bit {
+    position: absolute;
+    z-index: -1;
+    left: 20px;
+    top: 430px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .bit {
+    position: absolute;
+    z-index: -1;
+    left: 20px;
+    top: 420px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .bit {
+    position: absolute;
+    z-index: -1;
+    left: 20px;
+    top: 430px;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+.chg{
+  font-size: 5em;
+  text-align: left;
+}
