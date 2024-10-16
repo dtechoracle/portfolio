@@ -1,6 +1,6 @@
 import Resume from "./resume";
 import { ExpCircle } from "./svgs";
-import resumeUrl from "../utils/ovt.pdf";
+import resumeUrl from "../utils/dtech.docx";
 
 const Experience = () => {
   // console.log("resume", resumeUrl)
