@@ -23,7 +23,7 @@ const Resume = ({ pdfUrl, fileName, buttonText }) => {
 
       // Set the download link attributes
       link.href = blobUrl;
-      link.download = fileName || "download.pdf";
+      link.download = fileName || "download.docx";
 
       // Append the link to the document
       document.body.appendChild(link);
@@ -49,7 +49,7 @@ const Resume = ({ pdfUrl, fileName, buttonText }) => {
         className="cursor-pointer bg-gradient-to-r max-w-[197px] lg:max-w-[252px] to-[#D9D9D9] from-[#D9D9D900] py-0.5 pr-0.5"
       >
         <p className="bg-[#061417] px-[17px] py-[18px] font-medium text-[18px] font-clash">
-          {buttonText || "Download PDF"}
+          {buttonText || "Download Resume"}
         </p>
       </span>
       <Toaster />
