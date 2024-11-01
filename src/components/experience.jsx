@@ -1,6 +1,6 @@
 import Resume from "./resume";
 import { ExpCircle } from "./svgs";
-import resumeUrl from "../utils/dtech.docx";
+import resumeUrl from "../utils/Ezekiel-Jeremiah.docx";
 
 const Experience = () => {
   // console.log("resume", resumeUrl)
@@ -167,7 +167,7 @@ const Experience = () => {
             {/* RESUME */}
             <Resume
               pdfUrl={resumeUrl}
-              fileName="dtechoracle.docx"
+              fileName="Ezekiel-Jeremiah.docx"
               buttonText="Download Resume"
             />
           </div>
