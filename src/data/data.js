@@ -6,6 +6,18 @@ export const projectData = [
     link: "https://seamlessvisa.com",
   },
   {
+    name: "BarkBuddy",
+    desc: "A platform for dog owners.",
+    lang: "TypeScript + nextJS + tailwindCSS + supabase.",
+    link: "https://barkbuddy-eta.vercel.app/",
+  },
+    {
+    name: "FabReality",
+    desc: "An Online Store",
+    lang: "TypeScript + nextJS + tailwindCSS + supabase.",
+    link: "https://fabreality.vercel.app",
+  },
+  {
     name: "NoLandPacway",
     desc: "A website for a game development company",
     lang: "NextJS + TailwindCSS + NotionAPI",
