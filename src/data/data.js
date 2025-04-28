@@ -27,7 +27,7 @@ export const projectData = [
     name: "BuildHubb",
     desc: "The website for one of the startups i co-founded",
     lang: "reactJS + tailwindCSS + PHP",
-    link: "https://buildhubb.com/",
+    link: "https://buildhubb-new-hah.vercel.app/",
   },
   {
     name: "Tradeet's Waitlist",
