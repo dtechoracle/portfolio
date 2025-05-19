@@ -15,7 +15,7 @@ export const projectData = [
     name: "FabReality",
     desc: "An Online Store",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
-    link: "https://fabreality.vercel.app",
+    link: "https://new-fabreality.vercel.app/",
   },
   {
     name: "NoLandPacway",
