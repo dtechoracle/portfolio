@@ -12,10 +12,22 @@ export const projectData = [
     link: "https://barkbuddy-eta.vercel.app/",
   },
     {
-    name: "FabReality",
+    name: "Desolumè",
     desc: "An Online Store",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
-    link: "https://new-fabreality.vercel.app/",
+    link: "https://desolume.vercel.app/",
+  },
+  {
+    name: "Ginovate",
+    desc: "A website for an AI consulting firm.",
+    lang: "TypeScript + nextJS + tailwindCSS + supabase.",
+    link: "https://ginovate.com",
+  },
+  {
+    name: "Leaflet.",
+    desc: "An side project. ",
+    lang: "TypeScript + nextJS + tailwindCSS + supabase.",
+    link: "https://leeflet.vercel.app/",
   },
   {
     name: "NoLandPacway",
