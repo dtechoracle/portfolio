@@ -25,7 +25,7 @@ export const projectData = [
   },
   {
     name: "Leaflet.",
-    desc: "An side project. ",
+    desc: "A side project. ",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
     link: "https://leeflet.vercel.app/",
   },
