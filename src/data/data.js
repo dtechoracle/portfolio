@@ -12,6 +12,12 @@ export const projectData = [
     link: "https://otegarestaurant.com",
   },
   {
+    name: "Magic pitch",
+    desc: "Email marketing platform",
+    lang: "TypeScript + nodeJS + tailwindCSS ",
+    link: "https://magicpitch.ai/",
+  },
+  {
     name: "Project Genius",
     desc: "A student led incubation programme to solve local problems",
     lang: "TypeScript + nodeJS  + tailwindCSS ",
