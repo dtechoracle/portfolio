@@ -6,6 +6,12 @@ export const projectData = [
     link: "https://seamlessvisa.com",
   },
   {
+    name: "Otega Restaurant",
+    desc: "A webapp for a big restaurant in abuja for managing meals, customers and admins. Gives customers the ability to order meals.",
+    lang: "TypeScript + nodeJS + formik + tailwindCSS ",
+    link: "https://otegarestaurant.com",
+  },
+  {
     name: "BarkBuddy",
     desc: "A platform for dog owners.",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
