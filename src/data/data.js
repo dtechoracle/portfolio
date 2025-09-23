@@ -2,18 +2,24 @@ export const projectData = [
   {
     name: "SeamlessVisa",
     desc: "A platform that helps users with their immigration and give them detailed informations about everything they need to know before migrating",
-    lang: "TypeScript + nodeJS + formik + tailwindCSS ",
+    lang: "ReactJS + TypeScript + nodeJS + formik + tailwindCSS ",
     link: "https://seamlessvisa.com",
   },
   {
     name: "Otega Restaurant",
     desc: "A webapp for a big restaurant in abuja for managing meals, customers and admins. Gives customers the ability to order meals.",
-    lang: "TypeScript + nodeJS + formik + tailwindCSS ",
+    lang: "NextJS + TypeScript + nodeJS + mongoDB + tailwindCSS ",
     link: "https://otegarestaurant.com",
   },
   {
+    name: "Project Genius",
+    desc: "A student led incubation programme to solve local problems",
+    lang: "TypeScript + nodeJS  + tailwindCSS ",
+    link: "https://projectgenius.com.ng,
+  },
+  {
     name: "BarkBuddy",
-    desc: "A platform for dog owners.",
+    desc: "A platform for dog owners in the UK.",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
     link: "https://barkbuddy-eta.vercel.app/",
   },
