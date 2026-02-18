@@ -23,7 +23,7 @@ const Hero = () => {
               className="text-[#F0FEFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
               <p className="max-w-[310px]">
-                4+ Years of experience. Specialized in building products, while
+                5+ Years of experience. Specialized in building products, while
                 ensuring a seamless web and mobile experience for clients across africa and
                 overseas.
               </p>
