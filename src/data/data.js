@@ -18,18 +18,6 @@ export const projectData = [
     link: "https://0xmail.co",
   },
   {
-    name: "Magic pitch",
-    desc: "Email marketing platform",
-    lang: "TypeScript + nodeJS + tailwindCSS ",
-    link: "https://magicpitch.ai/",
-  },
-  {
-    name: "Project Genius",
-    desc: "A student led incubation programme to solve local problems",
-    lang: "TypeScript + nodeJS  + tailwindCSS ",
-    link: "https://projectgenius.com.ng,
-  },
-  {
     name: "BarkBuddy",
     desc: "A platform for dog owners in the UK.",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
@@ -42,6 +30,12 @@ export const projectData = [
     link: "https://desolume.vercel.app/",
   },
   {
+    name: "Fortunate Caterers",
+    desc: "An Online food Store",
+    lang: "TypeScript + nextJS + tailwindCSS + supabase.",
+    link: "https://fortunate-foods.vercel.app/",
+  },
+  {
     name: "Ginovate",
     desc: "A website for an AI consulting firm.",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
@@ -49,9 +43,9 @@ export const projectData = [
   },
   {
     name: "Leaflet.",
-    desc: "A side project. ",
+    desc: "A side project. AI-powered documentation generator",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
-    link: "https://leeflet.vercel.app/",
+    link: "https://new-leaflet.vercel.app/",
   },
   {
     name: "NoLandPacway",
