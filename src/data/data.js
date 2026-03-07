@@ -11,6 +11,12 @@ export const projectData = [
     lang: "NextJS + TypeScript + nodeJS + mongoDB + tailwindCSS ",
     link: "https://otegarestaurant.com",
   },
+    {
+    name: "0xMail",
+    desc: "An AI-powered cybersecurity AI agent for emails",
+    lang: "NextJS + TypeScript + neondb + prisma + tailwindCSS ",
+    link: "https://0xmail.co",
+  },
   {
     name: "Magic pitch",
     desc: "Email marketing platform",
