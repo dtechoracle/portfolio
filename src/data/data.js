@@ -18,6 +18,18 @@ export const projectData = [
     link: "https://0xmail.co",
   },
   {
+    name: "ESP landing page",
+    desc: "An AI-Powered 2 and 3d event creation platform",
+    lang: "NextJS + TypeScript + neondb + prisma + tailwindCSS ",
+    link: "https://eventspacepro.com",
+  },
+  {
+    name: "ocmico",
+    desc: "Simple landing page for a client",
+    lang: "NextJS + TypeScript",
+    link: "https://ocemicong.com",
+  },
+  {
     name: "BarkBuddy",
     desc: "A platform for dog owners in the UK.",
     lang: "TypeScript + nextJS + tailwindCSS + supabase.",
